@@ -1,0 +1,1 @@
+FLASK_APP=DSS_Homework_15/app.py flask run
