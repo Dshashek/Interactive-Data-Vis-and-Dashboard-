@@ -1,0 +1,1 @@
+web: gunicorn DSS_Homework_15.app:app
