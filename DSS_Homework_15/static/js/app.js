@@ -41,7 +41,8 @@ var pieData = [{
   labels: pieSampleOtuIds,
   name: 'Bacteria:',
   type: 'pie',
-  hovertinfo: pieSampleOtuLabels
+  customdata: pieSampleOtuLabels,
+  hovertext: pieSampleOtuLabels
 }]
 
 var bubbleData = [{
